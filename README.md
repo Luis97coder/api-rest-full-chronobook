@@ -1,3 +1,6 @@
+[WhatsApp Group](link_para_o_grupo) [Postman Collection](link_para_a_collection) [Documentation](link_para_documentação) [License](link_para_a_licença) [Support](link_para_suporte)
+
+
 # API REST ChronoBook
 A API REST ChronoBook é uma solução versátil e poderosa para agendamentos via WhatsApp, oferecendo funcionalidades avançadas para gerenciar compromissos e interações com a Evolution API. Com a capacidade de se integrar a várias aplicações por meio de webhooks, essa API proporciona uma experiência de agendamento flexível e personalizada.
 
@@ -32,3 +35,5 @@ Execução do Servidor: Inicie o servidor usando npm start para disponibilizar a
 
 # Documentação e Uso
 Consulte a documentação fornecida para obter detalhes completos sobre as rotas, parâmetros e operações disponíveis na API. Use as funcionalidades fornecidas para criar, atualizar, listar e excluir agendamentos, além de explorar as capacidades de integração com a Evolution API e outras aplicações através do webhook.
+
+[WhatsApp Group](link_para_o_grupo) [Postman Collection](link_para_a_collection) [Documentation](link_para_documentação) [License](link_para_a_licença) [Support](link_para_suporte)
